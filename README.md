@@ -25,6 +25,7 @@ This is my attempt at creating a 3 tier banking application for web use which wa
 - Open command terminal and run the command "cd path-to-cloned-repository"
 - Next run the command "npm install" to install dependencies
 - After installation run the command "npm start"
+- In browser window navigate to http://localhost:3000
 
 ## License
-MIT License
+[MIT License](https://github.com/breakdoogle/Banking_app/blob/main/LICENSE)
