@@ -27,4 +27,4 @@ This is my attempt at creating a 3 tier banking application for web use which wa
 - After installation run the command "npm start"
 
 ## License
-LICENSE
+MIT License
