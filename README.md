@@ -6,13 +6,13 @@ This is my attempt at creating a 3 tier banking application for web use which wa
 
 ## Technology Used
 - HTML
-- CSS
 - Javascript
-- React
+- ReactJS
 - ExpressJS
+- Bootstrap
+- Firebase
 - NodeJS
 - MongoDB
-- Firebase
 
 ## Features
 - Landing/Home page
